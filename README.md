@@ -1,3 +1,5 @@
+#NOTE - this application is now inactive.
+
 ## Great Salt Lake Data Explorer
 An interactive water quality data visualization and analysis tool for Great Salt Lake (GSL).
 
